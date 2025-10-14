@@ -1,8 +1,8 @@
 <p align="center">
-    <img id="studying" src="Mockito Next-Level Java Unit Testing Caption.png" height=100>
+    <img id="studying" src="Mockito Next-Level Java Unit Testing Caption.png" style="width:1000px;height:80px;">
 </p>
 
-![Mockito Next-Level Java Unit Testing](Mockito%20Next-Level%20Java%20Unit%20Testing.jpg)
+![Mockito Next-Level Java Unit Testing](Mockito%20Next-Level%20Java%20Unit%20Testing%20Desc.jpg)
 
 All course material from Mockito: Next-Level Java Unit Testing by **Adrian Więch**.
 
@@ -23,17 +23,15 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     <img id="certificate_mockito?trk=public_profile_see-credential" src="certificate_mockito.jpg" alt="pic of mockito certificate" width="600"/>
 </div>
 
-
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Progress/Curriculum.
+#### Progress/Curriculum.
 
 - [x] [Section 01](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%201%20First%20things%20first) - First things first. ✔️
 - [x] [Section 02](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%202%20Mockito%203%20Basics) - Mockito 4 Basics. ✔️
 - [x] [Section 03](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%203%20More%20Advanced%20Concepts) - More Advanced Concepts. ✔️
 - [x] [Section 04](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%204%20Additional%20Videos) - Additional Videos. ✔️
 - [x] [Section 05](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%205%20Want%20to%20Learn%20More) - Want to Learn More? ✔️
-
 
 
 # Selenium WebDriver with Java - Basics to Advanced + Frameworks.
@@ -65,13 +63,16 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Progress/Curriculum.
+#### Progress/Curriculum.
 
 - [ ] [Section 01](#) - 
 
-# Learn Cucumber BDD with Java - MasterClass Selenium Framework.
+<p align="center">
+    <img id="studying" src="Learn Cucumber BDD with Java - MasterClass Selenium Framework Caption.png" style="width:1000px;height:90px;">
+</p>
 
-![Cucumber BDD with Java - MasterClass Selenium Framework](cucumber.PNG)
+
+![Cucumber BDD with Java - MasterClass Selenium Framework](Learn%20Cucumber%20BDD%20with%20Java%20-MasterClass%20Selenium%20Framework%20Desc.PNG)
 
 All course material from Selenium WebDriver with Java by **Rahul Shetty**.
 
@@ -98,7 +99,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Progress/Curriculum.
+#### Progress/Curriculum.
 
 - [ ] [Section 01](#) - 
 
@@ -133,10 +134,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     <img id="certificate_junit_and_mockito?trk=public_profile_see-credential" src="certificate_junitAndMockito.jpg" alt="pic of mockito and junit certificate" width="600"/>
 </div>
 
-
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
 
-## Progress/Curriculum.
+#### Progress/Curriculum.
 
 - [x] [Section 01](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2001%20JunitAndMockito) - Introduction. ✔️
 - [X] [Section 02](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2002%20JunitAndMockito) - Unit Testing with Junit. ✔️
@@ -146,4 +146,46 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [x] [Section 06](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2006%20Mockito%20Advanced) - Mockito Advanced. ✔️
 - [x] [Section 07](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2007%20Powermock%20with%20Mockito) - PowerMock with Mockito. ✔️
 
+<p align="center">
+    <img id="studying" src="WireMock for Java Developers Caption.png" style="width:1000px;height:80px;">
+</p>
 
+![WireMock for Java Developers](WireMock%20for%20Java%20Developers%20Desc.JPG)
+
+<!-- All course material from Mockito: Next-Level Java Unit Testing by **Adrian Więch**. -->
+
+Contains my own notes to better learning experience. 
+
+<!-- [The Course at Udemy](https://www.udemy.com/course/mockito3/).    -->
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<div align="center">
+    add here
+</div>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [ ] [Section 01](#) - Getting Started with Course.
+- [ ] [Section 02](#) - Introduction to WireMock.
+- [ ] [Section 03](#) - Slides for the Course.
+- [ ] [Section 04](#) - Setting up the Workspace for the Course.
+- [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient.
+- [ ] [Section 06](#) - Setting Up WireMock.
+- [ ] [Section 07](#) - Build Stubs Using WireMock — Hands On.
+- [ ] [Section 08](#) - Verifying the Stubs — Hands On.
+- [ ] [Section 09](#) - Simulating Server/Fault Responses — Hands On.
+- [ ] [Section 10](#) - Simulating Latency — Hands On.
+- [ ] [Section 11](#) - Selective Proxying — Hands On.
+- [ ] [Section 12](#) - Running WireMock on JUnit 4.
+- [ ] [Section 13](#) - Running WireMock on Spring Boot.
+- [ ] [Section 14](#) - Running WireMock with Spring Boot and JUnit 5.
