@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
-    <img id="studying" src="Mockito Next-Level Java Unit Testing Caption.png" style="width:1000px;height:80px;">
+    <img src="Mockito Next-Level Java Unit Testing Caption.png" alt="Mockito Next-Level Java Unit Testing" style="width:1600px;height:120px;"/>
 </p>
 
-![Mockito Next-Level Java Unit Testing](Mockito%20Next-Level%20Java%20Unit%20Testing%20Desc.jpg)
+<p align="center">
+    <img src="Mockito_Next_Level_Java_Unit_Testing_Description.jpg" alt="Mockito Next-Level Java Unit Testing" style="width:690px" />
+</p>
 
 All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
 
@@ -190,11 +192,14 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     * *Coding Exercise*:
         * [Some here](#).
 
+
 <p align="center">
-    <img id="studying" src="Learn Cucumber BDD with Java - MasterClass Selenium Framework Caption.png" style="width:1000px;height:90px;">
+    <img src="Learn Cucumber BDD with Java - MasterClass Selenium Framework Caption.png" alt="introduction to algorithms caption" style="width:1600px;height:120px;"/>
 </p>
 
-![Cucumber BDD with Java - MasterClass Selenium Framework](Learn%20Cucumber%20BDD%20with%20Java%20-MasterClass%20Selenium%20Framework%20Desc.PNG)
+<p align="center">
+    <img src="Learn Cucumber BDD with Java -MasterClass Selenium Framework Desc.PNG" alt="introduction to algorithms caption" style="width:690px" />
+</p>
 
 All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 
@@ -328,7 +333,6 @@ Contains my own notes to better learning experience.
 
 [Homepage of Maker](https://dilipsundarraj.com/).
 
-
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
 <!-- 
@@ -344,9 +348,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [x] [Section 01](#) - Getting Started with Course. ✅
-- [ ] [Section 02](#) - Introduction to WireMock. ⚠️ In progress! ⚠️
-- [ ] [Section 03](#) - Slides for the Course.
+- [x] [Section 01](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2001#section-01-getting-started-with-course) - Getting Started with Course. ✅
+- [ ] [Section 02](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2002#section-02-introduction-to-wiremock) - Introduction to WireMock. ⚠️ In progress! ⚠️
+- [ ] [Section 03](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2003#section-03-slides-for-the-course) - Slides for the Course.
 - [ ] [Section 04](#) - Setting up the Workspace for the Course.
 - [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient.
 - [ ] [Section 06](#) - Setting Up WireMock.
