@@ -4,5 +4,4 @@ Slides for the Course.
 
 # What I Learned
 
-
-
+# Slides for the course.

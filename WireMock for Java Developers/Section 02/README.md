@@ -166,7 +166,32 @@ Why?
 </div>
 
 1. **WireMock** is more **simulation** for the service!
-
 2. **Mockito** does the same, but they server different idea:
     - **Mockito** mocks objects!
     - **WireMock** mocks external HTTP service!
+
+<div align="center">
+    <img src="Mockito_Vs_WireMock_In_Comparison_Of_The_Coding_Perspective_And_Architecture.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. With the **WireMock**, one just needs to replace the **server**, with the **mock REST API**.
+    - Our code will be interacting with our mock server.
+        - We just need to change the **URL** and the **port**.
+2. **Mockito** does not have any **HTTP**!
+
+<div align="center">
+    <img src="WireMock_Vs_Mocking_Libraries_Pros_And_Cons.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. **WireMock**:
+    - WebServer.
+    - Real HTTP. 
+    - Network fault simulation is possible.
+    - Testing equivalent to interacting with production environment.
+
+2. **Mockito**:
+    - Not a WebServer.
+    - No HTTP.
+    - Network fault simulation is not possible.
+    - Testing not equivalent to interacting with production environment.
++

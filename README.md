@@ -1,12 +1,12 @@
 <p align="center">
-    <img id="studying" src="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption.png" style="width:900px;height:140px;">
+    <img id="studying" src="Testing_Related_Topics_Courses_Caption.png" style="width:900px;height:140px;">
 <p align="center">
     Attempt to study <b>test or testing related</b> topics!
     </p>
 </p>
 
 <p align="center">
-    <img id="testing theme pic" src="Testing_Caption.gif" style="width:590px;height:310px;">
+    <img id="testing theme pic" src="Testing_Caption.gif" style="width:520px;height:290px;">
 </p>
 
 - For these courses one should configure **GIT** for handle projects.
@@ -41,7 +41,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 -->
 
 <div align="center">
-    <img id="certificate_mockito?trk=public_profile_see-credential" src="certificate_mockito.jpg" alt="pic of mockito certificate" width="600"/>
+    <img id="certificate_mockito?trk=public_profile_see-credential" src="Certificate_Mockito.jpg" alt="pic of mockito certificate" width="600"/>
 </div>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
@@ -68,10 +68,12 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 
 <p align="center">
-    <img id="studying" src="Selenium WebDriver with Java - Basics to Advanced + Frameworks caption.png" style="width:1000px;height:80px;">
+    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Caption.png" alt="selenium webDriver with java basics to advanced plus frameworks caption" style="width:1600px;height:100px;"/>
 </p>
 
-![Selenium WebDriver with Java](Selenium%20WebDriver%20with%20Java%20-%20Basics%20to%20Advanced%20+%20Frameworks%20desc.PNG)
+<p align="center">
+    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Description.png" alt="selenium webDriver with java basics to advanced plus frameworks description" style="width:690px" />
+</p>
 
 All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 
@@ -358,13 +360,13 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 #### Progress/Curriculum.
 
 - [x] [Section 01](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2001#section-01-getting-started-with-course) - Getting Started with Course. ✅
-- [ ] [Section 02](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2002#section-02-introduction-to-wiremock) - Introduction to WireMock. ⚠️ In progress! ⚠️
-- [x] [Section 03](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2003#section-03-slides-for-the-course) - Slides for the Course. ✅
-- [x] [Section 04](#) - Setting up the Workspace for the Course. ✅
-- [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient. ⚠️ In progress! ⚠️
-- [ ] [Section 06](#) - Setting Up WireMock.
-- [ ] [Section 07](#) - Build Stubs Using WireMock — Hands On.
-- [ ] [Section 08](#) - Verifying the Stubs — Hands On.
+- [x] [Section 02](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2002#section-02-introduction-to-wiremock) - Introduction to WireMock. ✅ 
+- [x] [Section 03](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/blob/main/WireMock%20for%20Java%20Developers/Section%2003/README.md#section-03-slides-for-the-course) - Slides for the Course. ✅
+- [x] [Section 04](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/blob/main/WireMock%20for%20Java%20Developers/Section%2004/README.md#section-04-setting-up-the-workspace-for-the-course) - Setting up the Workspace for the Course. ✅
+- [ ] [Section 05](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/blob/main/WireMock%20for%20Java%20Developers/Section%2005/README.md#section-05-build-restful-clients-using-spring-webclient) - Build RESTFUL Clients using Spring WebClient. ⚠️ In progress! ⚠️
+- [ ] [Section 06](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2006#section-06-setting-up-wiremock) - Setting Up WireMock.
+- [ ] [Section 07](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2006#section-06-setting-up-wiremock) - Build Stubs Using WireMock — Hands On.
+- [ ] [Section 08](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/blob/main/WireMock%20for%20Java%20Developers/Section%2008/README.md#section-08-verifying-the-stubs--hands-on) - Verifying the Stubs — Hands On.
 - [ ] [Section 09](#) - Simulating Server/Fault Responses — Hands On.
 - [ ] [Section 10](#) - Simulating Latency — Hands On.
 - [ ] [Section 11](#) - Selective Proxying — Hands On.
@@ -383,7 +385,10 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Some here](#).
     * *Coding Exercise*:
         * [Some here](#).
-
+* **Section 07**:
+    * *Assignment*:
+        * [Assignment 01](#).
+        * [Assignment 02](#).
 
 <p align="center">
     <img src="Learn Test Driven Development in Java caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
