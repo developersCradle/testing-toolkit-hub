@@ -3,6 +3,3 @@
 Setting Up WireMock.
 
 # What I Learned
-
-
-
