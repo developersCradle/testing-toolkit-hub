@@ -1,5 +1,5 @@
 <p align="center">
-    <img id="studying" src="Testing_Related_Topics_Courses_Caption.png" style="width:900px;height:140px;">
+    <img id="studying" src="Testing_Toolkit_Hub_Caption.png" style="width:900px;height:140px;">
 <p align="center">
     Attempt to study <b>test or testing related</b> topics!
     </p>
@@ -242,7 +242,23 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - 
+# Course Sections
+
+- [ ] [Section 01](#) - Introduction.
+- [ ] [Section 02](#) - JUnit Review.
+- [ ] [Section 03](#) - Test Driven Development (TDD).
+- [ ] [Section 04](#) - Spring Boot Unit Testing Support.
+- [ ] [Section 05](#) - Unit Testing - Mocking with Mockito.
+- [ ] [Section 06](#) - Unit Testing - Reflection Test Utils.
+- [ ] [Section 07](#) - Testing Spring Boot MVC Web Apps - Database Integration Testing.
+- [ ] [Section 08](#) - Testing Spring Boot MVC Web Apps - MVC Controller Testing.
+- [ ] [Section 09](#) - Testing Spring Boot MVC Web Apps - GradeBook App - Student Grades.
+- [ ] [Section 10](#) - Testing Spring Boot MVC Web Apps - Set Up SQL Scripts in properties.
+- [ ] [Section 11](#) - Testing Spring Boot MVC Web Apps - Student Information and Grades.
+- [ ] [Section 12](#) - Testing Spring Boot REST APIs.
+- [ ] [Section 13](#) - Summary.
+- [ ] [Section 14](#) - Appendix.
+- [ ] [Section 15](#) - Bonus.
 
 #### Additional stuff.
 
@@ -338,6 +354,8 @@ Contains my own with my own visual notes ✍️ with some course material to enf
 
 This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
+Also, will be using **Maven**, even thought in video there is **Gradle** in use.
+
 Contains my own notes to better learning experience. 
 
 [The Course at Udemy](https://www.udemy.com/course/wiremock-for-java-developers/).  
@@ -377,6 +395,8 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 #### Additional stuff.
 
 - [x] [Repository](https://github.com/dilipsundarraj1/wiremock-for-java-developers) of original author. ✔️
+- Check the should one include the rest web service to the repo!
+- Continue this, the WireMock library was dedicated at the time!
 
 #### The Quizzes and Labs.
 

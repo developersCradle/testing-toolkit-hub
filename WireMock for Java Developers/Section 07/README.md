@@ -22,7 +22,7 @@ Build Stubs Using WireMock — Hands On.
 
 # Generate Dynamic Response Stub by reading Query Param from the request.
 
-# Assignment 01: Build a stub for retrieveMovieByYear endpoint: `/movieservice/v1/movieYear`.
+# Assignment 01: Build a stub for retrieveMovieByYear endpoint: /movieservice/v1/movieYear.
 
 # Assignment 02: Build a stub for the retrieve movie by year endpoint with 404 Response.
 
