@@ -410,6 +410,62 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Assignment 01](#).
         * [Assignment 02](#).
 
+
+
+
+<p align="center">
+    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
+</p>
+
+# Practical Test Drive Development For Java Programmers Description.
+
+<p align="center">
+    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description.PNG" alt="Practical Test Driven Development For Java Programmers Description" style="width:690px" />
+</p>
+
+All course material from *Practical Test Driven Development for Java Programmers* by **Matt Greencroft** and **add here**.
+
+> <br><br>
+~ *DevelopersCradle*
+
+Contains my own notes to better learning experience.
+
+[The Course at Udemy](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/).
+
+<!-- [Homepage of Maker](https://www.fluentforward.com/). -->
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<div align="center">
+    add here
+</div>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [ ] [Section 01](#) - Some.
+
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
+
+
 <p align="center">
     <img src="Learn Test Driven Development in Java caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
@@ -446,13 +502,13 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Introduction to TDD.
-- [ ] [Section 02](#) - Demonstrating TDD, through walkthroughs and exercises.
-- [ ] [Section 03](#) - Real world TDD Part 1: Design enabling test.
-- [ ] [Section 04](#) - Real world TDD Part 2: Test doubles.
-- [ ] [Section 05](#) - Testing legacy code.
-- [ ] [Section 06](#) - Test principles.
-- [ ] [Section 07](#) - Applying TDD.
+- [ ] [Section 01](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2001#section-01-introduction-to-tdd) - Introduction to TDD.
+- [ ] [Section 02](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2002/README.md#section-02-demonstrating-tdd-through-walkthroughs-and-exercises) - Demonstrating TDD, through walkthroughs and exercises.
+- [ ] [Section 03](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2003#section-03-real-world-tdd-part-1-design-enabling-test) - Real world TDD Part 1: Design enabling test.
+- [ ] [Section 04](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2004/README.md#section-04-real-world-tdd-part-2-test-doubles) - Real world TDD Part 2: Test doubles.
+- [ ] [Section 05](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2005/README.md#section-05-testing-legacy-code) - Testing legacy code.
+- [ ] [Section 06](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2006#section-06-test-principles) - Test principles.
+- [ ] [Section 07](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Learn%20Test%20Driven%20Development%20in%20Java/Section%2007#section-07-applying-tdd) - Applying TDD.
 
 #### Additional stuff.
 
