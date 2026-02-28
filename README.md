@@ -41,7 +41,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 -->
 
 <div align="center">
-    <img id="certificate_mockito?trk=public_profile_see-credential" src="Certificate_Mockito.jpg" alt="pic of mockito certificate" width="600"/>
+    <img id="certificate_mockito?trk=public_profile_see-credential" src="Certificate_Mockito_Next_Level_Java_Unit_Testing.jpg" alt="Certificate picture of mockito next level java unit testing" width="600"/>
 </div>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
@@ -272,9 +272,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     * *Coding Exercise*:
         * [Some here](#).
 
-
-
-
 <p align="center">
     <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps Caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
@@ -417,7 +414,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
 
-# Practical Test Drive Development For Java Programmers Description.
+# Practical Test Drive Development For Java Programmers.
 
 <p align="center">
     <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description.PNG" alt="Practical Test Driven Development For Java Programmers Description" style="width:690px" />
@@ -428,15 +425,18 @@ All course material from *Practical Test Driven Development for Java Programmers
 > <br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes to better learning experience.
+
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
+
+This will be using Junit5 rather than Junit4.
+
+This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
 [The Course at Udemy](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/).
 
-<!-- [Homepage of Maker](https://www.fluentforward.com/). -->
+[Homepage of Maker](https://www.virtualpairprogrammers.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
-
-This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
 <!-- 
 Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
@@ -451,11 +451,21 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Some.
+- [x] [Section 01](#) - Introduction. ✅
+- [x] [Section 02](#) - JUnit. ✅
+- [x] [Section 03](#) - First tests. ✅
+- [ ] [Section 04](#) - Practising the basics. ⚠️ In progress! ⚠️
+- [ ] [Section 05](#) - Refactoring.
+- [ ] [Section 06](#) - Best Practices.
+- [ ] [Section 07](#) - Stubs.
+- [ ] [Section 08](#) - Mocks and Mockito.
+- [ ] [Section 09](#) - Fakes and Tautologies.
+- [ ] [Section 10](#) - Handling legacy code.
+- [ ] [Section 11](#) - Goodbye!
 
 #### Additional stuff.
 
-- [ ] Add here
+- [ ] Add end of this course, check and remove the pre-existence codes.
 
 #### The Quizzes and Labs.
 

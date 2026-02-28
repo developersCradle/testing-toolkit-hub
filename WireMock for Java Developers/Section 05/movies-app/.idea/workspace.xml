@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e893b8f-07e3-4d85-b0b4-2ae0482b28cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/se/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/se/MoviesRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/se/constants/MoviesAppConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/se/domain/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/java/se/MoviesRestClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring Boot Unit Testing with JUnit, Mockito and MockMvc/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring Boot Unit Testing with JUnit, Mockito and MockMvc/Section 01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring Boot Unit Testing with JUnit, Mockito and MockMvc/Section 01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Testing_Related_Topics_Courses_Caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
