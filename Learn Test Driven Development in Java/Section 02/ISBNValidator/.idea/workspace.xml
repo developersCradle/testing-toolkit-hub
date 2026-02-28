@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbbf4d5-5d80-43d9-b10f-eb67b1468130" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practical Test Drive Development For Java Programmers/Section 04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../WireMock for Java Developers/Section 05/movies-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WireMock for Java Developers/Section 05/movies-app/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +28,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.ValidateISBNTest.checkValidISBN.executor": "Run",
+    "JUnit.ValidateISBNTest.executor": "Debug",
     "JUnit.ValidateISBNTest.testFail.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,6 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateISBNTest.checkValidISBN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="METHOD_NAME" value="checkValidISBN" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidateISBNTest.testFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ISBNValidator" />
       <extension name="coverage">
@@ -89,6 +96,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ValidateISBNTest" />
+        <item itemvalue="JUnit.ValidateISBNTest.checkValidISBN" />
         <item itemvalue="JUnit.ValidateISBNTest.testFail" />
       </list>
     </recent_temporary>

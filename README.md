@@ -1,7 +1,7 @@
 <p align="center">
     <img id="studying" src="Testing_Toolkit_Hub_Caption.png" style="width:900px;height:140px;">
 <p align="center">
-    Attempt to study <b>test or testing related</b> topics!
+    Attempt to study making <b>tests or testing related</b> topics!
     </p>
 </p>
 
@@ -23,13 +23,15 @@
 </p>
 
 All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
->One afternoon, during a release crunch, the problem escalated. A critical module needed **unit test** coverage before merge approval—but we had only 15 minutes to add the tests so the pipeline could pass and the deployment window wouldn’t be missed.
-> <br><br>
-~ *DevelopersCradle*
+
+>During a development cycle at **Kide Systems**, I was asked to finalize automated tests within **15 minutes** after completing a feature, following an expectation set by the **CTO**. Under normal circumstances, writing the tests was straightforward, but the pressure of the immediate deadline exposed weaknesses in how the feature had been structured for testability.
+>
+>This experience pushed me to improve how I design and write tests—focusing on clearer structure, better separation of concerns, and preparing test cases earlier in the development process. <br><br>
+>~ DevelopersCradle
 
 Contains my own notes to better learning experience. 
 
-[The Course at Udemy](https://www.udemy.com/course/mockito3/).   
+[The course at Udemy](https://www.udemy.com/course/mockito3/).   
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -82,9 +84,9 @@ All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 
 Contains my own notes to better learning experience with some course content. 
 
-[The Course at Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/).
+[The course at Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/).
 
-[Homepage of Maker](https://rahulshettyacademy.com/).
+[Homepage of the maker](https://rahulshettyacademy.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -152,11 +154,11 @@ All course material from *Spring Boot Unit Testing with JUnit, Mockito and MockM
 
 Contains my own notes to better learning experience.
 
-[The Course at Udemy](https://www.udemy.com/course/spring-boot-unit-testing/).   
+[The course at Udemy](https://www.udemy.com/course/spring-boot-unit-testing/).   
 
-[Homepage of Maker 1](https://linkedin.com/in/codingwithroby).
+[Homepage of maker 01](https://linkedin.com/in/codingwithroby).
 
-[Homepage of Maker 2](https://luv2code.com/).
+[Homepage of maker 02](https://luv2code.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -219,9 +221,9 @@ All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 
 Contains my own notes to better learning experience with some course content. 
 
-[The Course at Udemy](https://www.udemy.com/course/cucumber-tutorial/).
+[The course at Udemy](https://www.udemy.com/course/cucumber-tutorial/).
 
-[Homepage of Maker](https://rahulshettyacademy.com/).
+[Homepage of maker](https://rahulshettyacademy.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -287,11 +289,11 @@ All course material from Learn *Java Unit Testing with Junit & Mockito in 30 Ste
 
 Contains my own notes to better learning experience with some course content. 
 
-[The Course at Udemy](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/).
+[The course at Udemy](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/).
 
-[Homepage of Maker](https://www.in28minutes.com/).
+[Homepage of the maker](https://www.in28minutes.com/).
 
-[Github of project](https://github.com/in28minutes/MockitoTutorialForBeginners).
+[GitHub repo](https://github.com/in28minutes/MockitoTutorialForBeginners).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -355,9 +357,9 @@ Also, will be using **Maven**, even thought in video there is **Gradle** in use.
 
 Contains my own notes to better learning experience. 
 
-[The Course at Udemy](https://www.udemy.com/course/wiremock-for-java-developers/).  
+[The course at Udemy](https://www.udemy.com/course/wiremock-for-java-developers/).  
 
-[Homepage of Maker](https://dilipsundarraj.com/).
+[Homepage of maker](https://dilipsundarraj.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -407,9 +409,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Assignment 01](#).
         * [Assignment 02](#).
 
-
-
-
 <p align="center">
     <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
@@ -422,9 +421,12 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 All course material from *Practical Test Driven Development for Java Programmers* by **Matt Greencroft** and **add here**.
 
+
+> When I was a junior developer at **Kide Clinical Systems**, one of my colleagues introduced me to the concept of **T**est-**D**riven **D**evelopment (**TDD**). At the time, I was mainly focused on getting features to work, and tests were something I wrote afterward—if there was time.
+>
+> That moment became an important learning step early in my career. It shifted my mindset from just making code work to designing code that is reliable and testable from the start.
 > <br><br>
 ~ *DevelopersCradle*
-
 
 Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
@@ -432,9 +434,11 @@ This will be using Junit5 rather than Junit4.
 
 This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
-[The Course at Udemy](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/).
+[The course at Udemy](https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/).
 
-[Homepage of Maker](https://www.virtualpairprogrammers.com/).
+[Homepage of maker](https://www.virtualpairprogrammers.com/).
+
+[Books from the same guy](https://www.multicode.co.uk/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
@@ -444,7 +448,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 -->
 
 <div align="center">
-    add here
+    <img id="Practical_Test_Driven_Development_For_Java_Programmers?trk=public_profile_see-credential" src="Practical_Test_Driven_Development_For_Java_Programmers_Certificate.jpg" alt="Practical test driven development for java programmers certificate" width="600"/>
 </div>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**

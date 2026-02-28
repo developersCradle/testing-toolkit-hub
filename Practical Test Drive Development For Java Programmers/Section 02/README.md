@@ -7,13 +7,13 @@ Applying TDD.
 # Introducing our first example project.
 
 <p align="center">
-    <img src="Introducing_Junits.PNG" style="width:520px;height:290px;">
+    <img src="Introducing_Junits.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. We will be writing to write **Junit** for our **business logic project**. This will be introduced soon!
 
 <p align="center">
-    <img src="Project_Which_We_Will_Be_Running_Test_Against.PNG" style="width:520px;height:290px;">
+    <img src="Project_Which_We_Will_Be_Running_Test_Against.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. We are making test for **ISBN** system.

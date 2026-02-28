@@ -7,13 +7,13 @@ Applying TDD.
 # Introducing TDD.
 
 <p align="center">
-    <img src="Introcution_TDD.PNG" style="width:520px;height:290px;">
+    <img src="Introcution_TDD.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. We will be going thought **T**est **D**riven **D**evelopment.
 
 <p align="center">
-    <img src="What_Is_TDD.PNG" style="width:520px;height:290px;">
+    <img src="What_Is_TDD.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. **TDD** comes from **Extreme Programming**!
@@ -21,7 +21,7 @@ Applying TDD.
     - This course is about making **TDD** practical way!
 
 <p align="center">
-    <img src="What_Is_TDD_Second.PNG" style="width:520px;height:290px;">
+    <img src="What_Is_TDD_Second.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 -  We use **test** to drive our writing our code!
@@ -35,13 +35,13 @@ Applying TDD.
 # What will we test.
 
 <p align="center">
-    <img src="What_Is_TDD_Second.PNG" style="width:520px;height:290px;">
+    <img src="What_Is_TDD_Second.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. **Notice**, that the writing **feature** can be iterative **process**, since we need test for them!
 
 <p align="center">
-    <img src="What_To_Test.PNG" style="width:520px;height:290px;">
+    <img src="What_To_Test.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. We will be writing **Junit**'s, not the **end to end point** test. 
