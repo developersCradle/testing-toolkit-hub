@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 10: Handling legacy code.
 
-Practising the basics.
+Handling legacy code.
 
 # What I Learned.

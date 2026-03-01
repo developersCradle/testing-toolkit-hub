@@ -55,4 +55,94 @@ First tests.
     - Green.
     - Refactor.
 
-- Next, we will be
+- Next, we will be writing **test's** that satisfies the **green** status, meaning passes! As following code:
+
+````Java
+class ValidateISBNTest {
+
+	@Test
+	public void checkValidISBN()
+	{
+		ValidateISBN validator = new ValidateISBN();
+		boolean result = validator.checkISBN(0140449116);
+	}
+	
+}
+````
+
+- This brings another side of **TDD** on the picture.
+
+<p align="center">
+    <img src="Example_Of_The_Filosofy_Of_TDD.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. We should be adding **valid** ISBN, but as `integer`. There is **error**, but we don't need to think to be perfect, we just want it to be able to compile!
+    - We don't care, if this is **right** or **not**, for now integer can be fine for now!
+
+<p align="center">
+    <img src="Rules_Of_TDD_Second.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. We don't know does our value need to be **string** or **integer**, but we don't judge. Furthermore, we look at the **data** and see it looks like its **integer**, and we **go with it**!
+
+- After this we will have the following code, to satisfy the failing red test criteria!
+
+````Java
+package org.java.se;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ValidateISBNTest {
+
+	@Test
+	public void checkValidISBN()
+	{
+		ValidateISBN validator = new ValidateISBN();
+		boolean result = validator.checkISBN(140449116);
+
+		assertTrue(result);
+	}
+}
+````
+
+- And the test:
+
+````Java
+public class ValidateISBN {
+
+	public boolean checkISBN(int isbn) {
+		return false;
+	}
+````
+
+<p align="center">
+    <img src="Example_Of_The_Filosofy_Of_TDD.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. We get successful case as first part of the **TDD**, the status **red**.¨
+
+# Step 2 - getting to green.
+
+- Now we need to think, how to make our test **green**!
+
+<p align="center">
+    <img src="Rules_Of_TDD_Third.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. In this step, we want to make our **test pass**! Even if it feels wrong in long run, we just want to make this test pass!
+    - Below code makes the test pass, but the implementation is wrong!
+
+````Java
+public class ValidateISBN {
+	public boolean checkISBN(int isbn) {
+		return true;
+	}
+````
+
+# Why you must always start with a failing test!
+
+# Adding more tests.
+
+# Finally writing some code.

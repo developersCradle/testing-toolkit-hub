@@ -1,9 +1,9 @@
 
-## Section 02 Unit Testing with Junit
+# Section 02: Unit Testing with Junit.
 
 Unit Testing with Junit lecture.
 
-# What I Learned
+# What I Learned.
 
 # JUnit Step 1 : Why is Unit Testing Important?
 
@@ -12,7 +12,7 @@ Unit Testing with Junit lecture.
 - Old way to test this would be.
 	- Push code to production.
 	- Navigate to page where code is affected and test it thought UI.
-		- Nowadays we would write **Unit Tests** to test this.
+		- Nowadays, we would write **Unit Tests** to test this.
 
 1. This can be called **Unit**. Unit also can be:
 	- Method().
@@ -20,7 +20,7 @@ Unit Testing with Junit lecture.
 	- Set of classes.
 - **Usually it means** you are testing one method or group of methods. 
 
-# JUnit Step 2 : Setting up your first JUnit
+# JUnit Step 2 : Setting up your first JUnit.
 
 <img src="archetype.JPG" alt="alt text" width="400"/>
 
@@ -60,13 +60,13 @@ public class StringHelper {
 
 - Unit test should not be in `src/main ` folder, when application is builded it will go to complied source.
 
-# Step 03 : First Successful JUnit. Green Bar and assertEquals
+# Step 03 : First Successful JUnit. Green Bar and assertEquals.
 
 - Test will assert stuff. Asserts have usually `actual` and `expected` value. `assertEquals("ABC", "ABCD");`.
 
 - Remember **expected** is first and second one **actual**.
 
-# Step 04 : Refactoring Your First JUnit Test
+# Step 04 : Refactoring Your First JUnit Test.
 
 - Writing second test.
 
@@ -78,7 +78,7 @@ public class StringHelper {
 	}
 ```
 
-# Step 05 : Second JUnit Example assertTrue and assertFalse
+# Step 05 : Second JUnit Example assertTrue and assertFalse.
 
 - **AssertEquals** fails if comparing fails.
 
@@ -98,7 +98,7 @@ public class StringHelper {
 
 1. If you name test method names correctly you **don't** necessary need condition name(You can use other version of **Assert** to display error messages, but if name of method is correctly written this is **often unnecessary**). You can see clearly which test fails.
 
- # Step 06 : @Before @After and Step 07 : @BeforeClass @AfterClass
+ # Step 06 : @Before @After and Step 07 : @BeforeClass @AfterClass.
 
 - If you need to use **System.out.println()** for printing, its recommended use  logger instead.
 
@@ -113,8 +113,7 @@ public class StringHelper {
 
 - Class with @BeforeClass should be **static**.
 
-
-# Step 08 : Comparing Arrays in JUnit Tests
+# Step 08 : Comparing Arrays in JUnit Tests.
 
 - Comparing arrays with `assertArrayEquals(expected, numbers);`.
 	- Checks are they same values!
@@ -129,7 +128,7 @@ public class StringHelper {
 	}
 ```
 
-# Step 09 : Testing Exceptions in JUnit Tests
+# Step 09 : Testing Exceptions in JUnit Tests.
 
 - Testing exception with **expected**.
 	- Old way is to use try-catch.
@@ -144,7 +143,7 @@ public class StringHelper {
 	}
 ```
 
-# Step 10 : Testing Performance in JUnit Tests
+# Step 10 : Testing Performance in JUnit Tests.
 
 - Testing with time, we would want to it be executed in **specific time**.
 	- Using **timeout** annotation `@Test(timeout=100)`.
@@ -162,7 +161,7 @@ public class StringHelper {
 	}
 ```
 
-# Step 11 : Parameterized Tests
+# Step 11 : Parameterized Tests.
 
 - Parameterized Tests help to make many test asserts with ease.
 
@@ -206,7 +205,7 @@ public class StringHelperParameterizedTest {
 }
 ```
 
-# Step 12 : Organize JUnits into Suites
+# Step 12 : Organize JUnits into Suites.
 
 - To run specific tests and  **not all**! We wan't create test suite.
 
@@ -216,6 +215,6 @@ public class StringHelperParameterizedTest {
 
 - **Suite class**, needs to annotated with `@RunWith(Suite.class)`.
 
-# How to remember things for long time
+# How to remember things for long time.
 
 - Take notes and review them often

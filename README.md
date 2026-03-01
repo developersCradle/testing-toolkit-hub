@@ -13,7 +13,6 @@
     - `git config --global http.postBuffer 524288000`.
     - `git config --global core.longpaths true`.
 
-
 <p align="center">
     <img src="Mockito_Next_Level_Java_Unit_Testing_Caption.png" alt="Mockito Next-Level Java Unit Testing" style="width:1600px;height:70px;"/>
 </p>
@@ -24,12 +23,12 @@
 
 All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
 
->During a development cycle at **Kide Systems**, I was asked to finalize automated tests within **15 minutes** after completing a feature, following an expectation set by the **CTO**. Under normal circumstances, writing the tests was straightforward, but the pressure of the immediate deadline exposed weaknesses in how the feature had been structured for testability.
->
->This experience pushed me to improve how I design and write tests—focusing on clearer structure, better separation of concerns, and preparing test cases earlier in the development process. <br><br>
->~ DevelopersCradle
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
-Contains my own notes to better learning experience. 
+> During a development cycle at ❄️**Kide Clinical Systems**❄️, I was asked to finalize automated tests at very fast time schedule after completing a feature, following an expectation set by the **CTO**. Under normal circumstances, writing the tests was straightforward, but the pressure of the immediate deadline exposed weaknesses in how the feature had been structured for testability.
+>
+> This experience pushed me to improve how I design and write tests—focusing on clearer structure, better separation of concerns, and preparing test cases earlier in the development process. <br><br>
+> ~ DevelopersCradle
 
 [The course at Udemy](https://www.udemy.com/course/mockito3/).   
 
@@ -70,6 +69,60 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 
 <p align="center">
+    <img src="Learn_Java_Unit_Testing_With_Junit_And_Mockito_In_30_Steps_Caption.png" alt="learn java unit testing with junit and mockito in 30 steps caption" style="width:1600px;height:120px;"/>
+</p>
+
+<p align="center">
+    <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps.JPG" alt="learn test driven development in java" style="width:690px" />
+</p>
+
+All course material from Learn *Java Unit Testing with Junit & Mockito in 30 Steps* by **Ranga Karanam** from legendary **in28minutes**.
+
+> During a development cycle at ❄️**Kide Clinical Systems**❄️, I was asked to finalize automated tests at very fast time schedule after completing a feature, following an expectation set by the **CTO**. Under normal circumstances, writing the tests was straightforward, but the pressure of the immediate deadline exposed weaknesses in how the feature had been structured for testability.
+> 
+> This experience pushed me to improve how I design and write tests—focusing on clearer structure, better separation of concerns, and preparing test cases earlier in the development process. <br><br>
+> ~ DevelopersCradle
+
+Contains my own notes to better learning experience with some course content. 
+
+[The course at Udemy](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/).
+
+[Homepage of the maker](https://www.in28minutes.com/).
+
+[GitHub repo](https://github.com/in28minutes/MockitoTutorialForBeginners).
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
+
+<br>
+
+<!-- 
+Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
+?trk=public_profile_see-credential 
+-->
+
+<div align="center">
+    <img id="certificate_junit_and_mockito?trk=public_profile_see-credential" src="certificate_junitAndMockito.jpg" alt="pic of mockito and junit certificate" width="600"/>
+</div>
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
+#### Progress/Curriculum.
+
+- [x] [Section 01](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20&%20Mockito%20in%2030%20Steps/Section%2001%20JunitAndMockito#section-01-introduction) - Introduction. ✔️
+- [X] [Section 02](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2002%20JunitAndMockito) - Unit Testing with Junit. ✔️
+- [x] [Section 03](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2003%20Getting%20Ready%20for%20Mockito) - Getting Ready for Mockito. ✔️
+- [X] [Section 04](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2004%20Need%20For%20Mockito) - Need For Mockito. ✔️
+- [x] [Section 05](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2005%20Mockito%20Basics) - Mockito Basics. ✔️
+- [x] [Section 06](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2006%20Mockito%20Advanced) - Mockito Advanced. ✔️
+- [x] [Section 07](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2007%20Powermock%20with%20Mockito) - PowerMock with Mockito. ✔️
+
+#### Additional stuff.
+
+- [ ] Add here
+
+<p align="center">
     <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Caption.png" alt="selenium webDriver with java basics to advanced plus frameworks caption" style="width:1600px;height:100px;"/>
 </p>
 
@@ -82,7 +135,7 @@ All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 > <br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes to better learning experience with some course content. 
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
 [The course at Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/).
 
@@ -152,7 +205,7 @@ All course material from *Spring Boot Unit Testing with JUnit, Mockito and MockM
 > <br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes to better learning experience.
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
 [The course at Udemy](https://www.udemy.com/course/spring-boot-unit-testing/).   
 
@@ -219,7 +272,7 @@ All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
 > <br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes to better learning experience with some course content. 
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
 [The course at Udemy](https://www.udemy.com/course/cucumber-tutorial/).
 
@@ -273,58 +326,6 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Some here](#).
     * *Coding Exercise*:
         * [Some here](#).
-
-<p align="center">
-    <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps Caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
-</p>
-
-<p align="center">
-    <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps.JPG" alt="learn test driven development in java" style="width:690px" />
-</p>
-
-All course material from Learn *Java Unit Testing with Junit & Mockito in 30 Steps* by **Ranga Karanam** from legendary **in28minutes**.
-
-> <br><br>
-~ *DevelopersCradle*
-
-Contains my own notes to better learning experience with some course content. 
-
-[The course at Udemy](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/).
-
-[Homepage of the maker](https://www.in28minutes.com/).
-
-[GitHub repo](https://github.com/in28minutes/MockitoTutorialForBeginners).
-
-If the content sparked :fire: your interest, please consider buying the course and start learning :book:
-
-This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
-
-<br>
-
-<!-- 
-Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
-?trk=public_profile_see-credential 
--->
-
-<div align="center">
-    <img id="certificate_junit_and_mockito?trk=public_profile_see-credential" src="certificate_junitAndMockito.jpg" alt="pic of mockito and junit certificate" width="600"/>
-</div>
-
-**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
-
-#### Progress/Curriculum.
-
-- [x] [Section 01](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2001%20JunitAndMockito) - Introduction. ✔️
-- [X] [Section 02](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2002%20JunitAndMockito) - Unit Testing with Junit. ✔️
-- [x] [Section 03](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2003%20Getting%20Ready%20for%20Mockito) - Getting Ready for Mockito. ✔️
-- [X] [Section 04](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2004%20Need%20For%20Mockito) - Need For Mockito. ✔️
-- [x] [Section 05](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2005%20Mockito%20Basics) - Mockito Basics. ✔️
-- [x] [Section 06](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2006%20Mockito%20Advanced) - Mockito Advanced. ✔️
-- [x] [Section 07](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2007%20Powermock%20with%20Mockito) - PowerMock with Mockito. ✔️
-
-#### Additional stuff.
-
-- [ ] Add here
 
 #### The Quizzes and Labs.
 
@@ -409,11 +410,11 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Assignment 01](#).
         * [Assignment 02](#).
 
-<p align="center">
-    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
-</p>
 
-# Practical Test Drive Development For Java Programmers.
+
+<p align="center">
+    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Caption.PNG" alt="Practical Test Driven Development For Java Programmers Caption" style="width:1600px;height:100px;"/>
+</p>
 
 <p align="center">
     <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description.PNG" alt="Practical Test Driven Development For Java Programmers Description" style="width:690px" />
@@ -421,8 +422,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 All course material from *Practical Test Driven Development for Java Programmers* by **Matt Greencroft** and **add here**.
 
-
-> When I was a junior developer at **Kide Clinical Systems**, one of my colleagues introduced me to the concept of **T**est-**D**riven **D**evelopment (**TDD**). At the time, I was mainly focused on getting features to work, and tests were something I wrote afterward—if there was time.
+> When I was a junior developer at ❄️**Kide Clinical Systems**❄️, one of my colleagues introduced me to the concept of **T**est-**D**riven **D**evelopment (**TDD**). At the time, I was mainly focused on getting features to work, and tests were something I wrote afterward—if there was time.
 >
 > That moment became an important learning step early in my career. It shifted my mindset from just making code work to designing code that is reliable and testable from the start.
 > <br><br>
@@ -455,10 +455,10 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [x] [Section 01](#) - Introduction. ✅
-- [x] [Section 02](#) - JUnit. ✅
-- [x] [Section 03](#) - First tests. ✅
-- [ ] [Section 04](#) - Practising the basics. ⚠️ In progress! ⚠️
+- [x] [Section 01](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2001#section-01-applying-tdd) - Introduction. ✅
+- [x] [Section 02](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2002#section-02-applying-tdd) - JUnit. ✅
+- [x] [Section 03](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2003#section-03-first-tests) - First tests. ✅
+- [ ] [Section 04](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2004#section-04-practising-the-basics) - Practicing the basics. ⚠️ In progress! ⚠️
 - [ ] [Section 05](#) - Refactoring.
 - [ ] [Section 06](#) - Best Practices.
 - [ ] [Section 07](#) - Stubs.
@@ -493,7 +493,7 @@ All course material from *Learn Test Driven Development in Java* by **Fluent Sof
 > <br><br>
 ~ *DevelopersCradle*
 
-Contains my own notes to better learning experience.
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
 [The Course at Udemy](https://www.udemy.com/course/learn-test-driven-development-in-java/).
 

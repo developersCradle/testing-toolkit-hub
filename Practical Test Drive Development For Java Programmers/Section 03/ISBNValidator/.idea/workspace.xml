@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edbbf4d5-5d80-43d9-b10f-eb67b1468130" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps Caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 01 JunitAndMockito/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/ThereIsAlotOfAsserts.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/achietype.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/archetype.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/clearlySeeError.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/src/main/java/com/minutes/junit/StringHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/src/test/java/com/minutes/junit/ArraysCompareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/src/test/java/com/minutes/junit/QuickBeforeAfterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/src/test/java/com/minutes/junit/StringHelperParameterizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/junit/src/test/java/com/minutes/junit/StringHelperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/namingTestCorrectly.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/oldWayTesting.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 02 JunitAndMockito/suitestClass.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 03 Getting Ready for Mockito/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/autoSuggestion.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/confiAutoSuggestion.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/defaultMocks.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/main/java/com/in28minutes/business/TodoBusinessImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/main/java/com/in28minutes/data/api/TodoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/main/java/com/in28minutes/data/api/TodoServiceStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/main/java/com/in28minutes/powermock/SystemUnderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/main/java/com/in28minutes/powermock/UtilityClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/business/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/business/TodoBusinessImplMockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/business/TodoBusinessImplStubTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/mockito/HamcrestMatchersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/mockito/SpyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/mockito/TodoBusinessImplMockitoInjectMockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/powermock/PowerMockitoMockingConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/powermock/PowerMockitoMockingStaticMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockito-course/src/test/java/com/in28minutes/powermock/PowerMockitoTestingPrivateMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 04 Need For Mockito/mockitoStubInDebugging.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 05 Mockito Basics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 05 Mockito Basics/bddStyleMethodNames.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 05 Mockito Basics/howToVerifyThisTest.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/argumentCaptor.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/bond.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mocking.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/api/src/main/java/com/in28minutes/example/layering/business/api/client/ClientBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/business/client/ClientBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/business/client/ClientBOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/data/client/ClientDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/data/client/CollateralDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/data/client/ProductDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/data/client/ProductDOStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/Amount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/AmountImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/ClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/ClientType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/Collateral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/CollateralImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/CollateralType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/ProductImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/com/example/mock/model/client/ProductType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/main/java/com/in28minutes/example/layering/business/impl/client/ClientBOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/test/java/com/in28minutes/example/layering/business/client/ClientBOMockitoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/impl/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/business/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/src/main/java/com/in28minutes/example/layering/data/api/client/ClientDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/src/main/java/com/in28minutes/example/layering/data/api/client/CollateralDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/api/src/main/java/com/in28minutes/example/layering/data/api/client/ProductDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/impl/src/main/java/com/in28minutes/example/layering/data/impl/client/ProductDODummyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/data/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/Amount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/ClientType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/Collateral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/CollateralType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/api/client/ProductType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/impl/client/AmountImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/impl/client/CollateralImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ProductImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockito-real-world-example-with-spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/mockitoRunner.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 06 Mockito Advanced/testImplementationProject.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 07 Powermock with Mockito/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Java Unit Testing with Junit &amp; Mockito in 30 Steps/Section 07 Powermock with Mockito/mavenDependency.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/src/main/java/org/java/se/ValidateISBN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/ISBNValidator/src/test/java/org/java/se/ValidateISBNTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Learn Test Driven Development in Java/Section 02/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 06/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 09/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 10/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AJFTeaqrlQVbCOzZTrpYLwtDun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ValidateISBNTest.checkValidISBN.executor": "Run",
+    "JUnit.ValidateISBNTest.executor": "Run",
+    "JUnit.ValidateISBNTest.testFail.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ScoopiDoo/Desktop/git projektit/testing-toolkit-hub/Practical Test Drive Development For Java Programmers/Section 03/ISBNValidator"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ScoopiDoo\Desktop\git projektit\testing-toolkit-hub\Learn Test Driven Development in Java\Section 02\ISBNValidator\src\main\java\org\java\se" />
+      <recent name="C:\Users\ScoopiDoo\Desktop\git projektit\testing-toolkit-hub\Learn Test Driven Development in Java\Section 02\ISBNValidator\src\test\java\org\java\se" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ValidateISBNTest">
+    <configuration name="ValidateISBNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateISBNTest.checkValidISBN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="METHOD_NAME" value="checkValidISBN" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateISBNTest.testFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="METHOD_NAME" value="testFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValidateISBNTest" />
+        <item itemvalue="JUnit.ValidateISBNTest.checkValidISBN" />
+        <item itemvalue="JUnit.ValidateISBNTest.testFail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edbbf4d5-5d80-43d9-b10f-eb67b1468130" name="Changes" comment="" />
+      <created>1772302783478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772302783478</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 05: Refactoring. 
 
-Practising the basics.
+Refactoring.
 
 # What I Learned.

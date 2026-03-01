@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 11: Goodbye!
 
-Practising the basics.
+Goodbye!
 
 # What I Learned.

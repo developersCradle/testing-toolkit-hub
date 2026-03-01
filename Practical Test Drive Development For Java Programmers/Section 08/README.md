@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 08: Mocks and Mockito. 
 
-Practising the basics.
+Mocks and Mockito.
 
 # What I Learned.

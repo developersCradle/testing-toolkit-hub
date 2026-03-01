@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 04: Practicing the basics. 
 
-Practising the basics.
+Practicing the basics.
 
 # What I Learned.

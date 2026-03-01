@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 07: Stubs.
 
-Practising the basics.
+Stubs.
 
 # What I Learned.

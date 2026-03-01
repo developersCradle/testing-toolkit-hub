@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 06: Best Practices.
 
-Practising the basics.
+Best Practices.
 
 # What I Learned.

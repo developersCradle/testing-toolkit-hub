@@ -1,5 +1,5 @@
-# Section 04: Practising the basics. 
+# Section 09: Fakes and Tautologies. 
 
-Practising the basics.
+Fakes and Tautologies
 
 # What I Learned.
