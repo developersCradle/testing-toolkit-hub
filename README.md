@@ -195,7 +195,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Some here](#).
 
 <p align="center">
-    <img id="studying" src="Spring Boot Unit Testing with JUnit, Mockito and MockMvc caption.png" style="width:1000px;height:80px;">
+    <img id="studying" src="Spring Boot Unit Testing with JUnit, Mockito and MockMvc caption.png" style="width:1000px;height:100px;">
 </p>
 
 ![Spring Boot Unit Testing with JUnit, Mockito and MockMvc](Spring%20Boot%20Unit%20Testing%20with%20JUnit,%20Mockito%20and%20MockMvc%20desc.JPG)
@@ -410,10 +410,8 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Assignment 01](#).
         * [Assignment 02](#).
 
-
-
 <p align="center">
-    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Caption.PNG" alt="Practical Test Driven Development For Java Programmers Caption" style="width:1600px;height:100px;"/>
+    <img src="Practical_Test_Driven_Development_For_Java_Programmers_Caption.PNG" alt="Practical Test Driven Development For Java Programmers Caption" style="width:1600px;height:130px;"/>
 </p>
 
 <p align="center">
@@ -458,14 +456,14 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [x] [Section 01](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2001#section-01-applying-tdd) - Introduction. ✅
 - [x] [Section 02](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2002#section-02-applying-tdd) - JUnit. ✅
 - [x] [Section 03](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2003#section-03-first-tests) - First tests. ✅
-- [ ] [Section 04](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2004#section-04-practising-the-basics) - Practicing the basics. ⚠️ In progress! ⚠️
-- [ ] [Section 05](#) - Refactoring.
-- [ ] [Section 06](#) - Best Practices.
-- [ ] [Section 07](#) - Stubs.
-- [ ] [Section 08](#) - Mocks and Mockito.
-- [ ] [Section 09](#) - Fakes and Tautologies.
-- [ ] [Section 10](#) - Handling legacy code.
-- [ ] [Section 11](#) - Goodbye!
+- [x] [Section 04](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2004#section-04-practising-the-basics) - Practicing the basics. ✅
+- [ ] [Section 05](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2005#section-05-refactoring) - Refactoring. ⚠️ In progress! ⚠️
+- [ ] [Section 06](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2006/README.md#section-06-best-practices) - Best Practices.
+- [ ] [Section 07](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2007/README.md#section-07-stubs) - Stubs.
+- [ ] [Section 08](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2008#section-08-mocks-and-mockito) - Mocks and Mockito.
+- [ ] [Section 09](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2009#section-09-fakes-and-tautologies) - Fakes and Tautologies.
+- [ ] [Section 10](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2010#section-10-handling-legacy-code) - Handling legacy code.
+- [ ] [Section 11](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2011#section-11-goodbye) - Goodbye!
 
 #### Additional stuff.
 

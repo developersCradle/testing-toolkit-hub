@@ -7,16 +7,24 @@ public class ValidateISBN {
 	private static final int SHORT_ISBN_LENGTH = 10;
 	private static final int LONG_ISBN_LENGTH = 13;
 
-	public boolean checkISBN(int isbn) {
+	public boolean checkISBN(String isbn) {
+		int total = 0;
 
-		return true;
-		//		if (isbn.length() == LONG_ISBN_LENGTH) {
-//			return isThisAValidLongISBN(isbn);
-//		}
-//		else if (isbn.length() == SHORT_ISBN_LENGTH) {
-//			return isThisAValidShortISBN(isbn);
-//		}
-//		throw new NumberFormatException("ISBN numbers must be 10 or 13 digits long");
+		// The adding of the numbers together, sum.
+		for (int i = 0; i < 10; i++)
+		{
+			total += isbn.charAt(i) * (10 - i);
+		}
+
+		//  The modules operation
+		if (total % 11 == 0)
+		{
+			return true;
+		}
+		else{
+			return false;
+		}
+
 	}
 
 	private boolean isThisAValidShortISBN(String isbn) {
