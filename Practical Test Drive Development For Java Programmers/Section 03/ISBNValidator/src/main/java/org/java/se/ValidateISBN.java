@@ -7,9 +7,19 @@ public class ValidateISBN {
 	private static final int SHORT_ISBN_LENGTH = 10;
 	private static final int LONG_ISBN_LENGTH = 13;
 
-	public boolean checkISBN(String isbn) {
-		int total = 0;
+	public static boolean containsAlphabet(String str) {
+		return str.matches(".*[a-zA-Z].*");
+	}
 
+	public boolean checkISBN(String isbn) {
+
+
+		if (isbn == null | isbn.length() < 10)
+		{
+			throw new NumberFormatException();
+		}
+
+		int total = 0;
 		// The adding of the numbers together, sum.
 		for (int i = 0; i < 10; i++)
 		{

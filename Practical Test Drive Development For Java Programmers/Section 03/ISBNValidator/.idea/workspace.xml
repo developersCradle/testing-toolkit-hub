@@ -8,10 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rules_Of_TDD_Second.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../Rules_Of_TDD_Second.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practical_Test_Driven_Development_For_Java_Programmers_Caption.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practical_Test_Driven_Development_For_Java_Programmers_Caption.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 11/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.ValidateISBNTest.checkInvalidISBN.executor": "Run",
+    "JUnit.ValidateISBNTest.checkIsIfISBNis10digitsLong.executor": "Run",
     "JUnit.ValidateISBNTest.checkValidISBN.executor": "Run",
     "JUnit.ValidateISBNTest.executor": "Run",
     "JUnit.ValidateISBNTest.testFail.executor": "Run",
@@ -66,6 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateISBNTest.checkIfISBNContainsAlphabetic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="METHOD_NAME" value="checkIfISBNContainsAlphabetic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidateISBNTest.checkInvalidISBN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ISBNValidator" />
       <extension name="coverage">
@@ -77,6 +92,22 @@
       <option name="PACKAGE_NAME" value="org.java.se" />
       <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
       <option name="METHOD_NAME" value="checkInvalidISBN" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateISBNTest.checkIsIfISBNis10digitsLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ISBNValidator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.java.se" />
+      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
+      <option name="METHOD_NAME" value="checkIsIfISBNis10digitsLong" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,28 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidateISBNTest.testFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ISBNValidator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.java.se.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.java.se" />
-      <option name="MAIN_CLASS_NAME" value="org.java.se.ValidateISBNTest" />
-      <option name="METHOD_NAME" value="testFail" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ValidateISBNTest" />
+        <item itemvalue="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic" />
+        <item itemvalue="JUnit.ValidateISBNTest.checkIsIfISBNis10digitsLong" />
         <item itemvalue="JUnit.ValidateISBNTest.checkValidISBN" />
         <item itemvalue="JUnit.ValidateISBNTest.checkInvalidISBN" />
-        <item itemvalue="JUnit.ValidateISBNTest.testFail" />
       </list>
     </recent_temporary>
   </component>
@@ -133,5 +149,15 @@
       <updated>1772302783478</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

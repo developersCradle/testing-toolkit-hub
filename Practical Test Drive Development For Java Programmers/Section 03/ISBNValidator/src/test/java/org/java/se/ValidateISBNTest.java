@@ -1,6 +1,9 @@
 package org.java.se;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.fail;
 
 import org.junit.jupiter.api.Test;
 
@@ -12,7 +15,7 @@ class ValidateISBNTest {
 		// First case!
 		ValidateISBN validator = new ValidateISBN();
 		boolean result = validator.checkISBN("0140449116");
-		assertTrue( result, "First value:");
+		assertTrue( result, "F0irst value:");
 		// Second case!
 		result = validator.checkISBN("0140177396");
 		assertTrue(result, "Second value:");
@@ -23,9 +26,35 @@ class ValidateISBNTest {
 	{
 		ValidateISBN validator = new ValidateISBN();
 		boolean result = validator.checkISBN("0140449117");
-
 		assertFalse(result);
 	}
 
+	@Test
+	public void checkIsIfISBNis10digitsLong()
+	{
+		ValidateISBN validator = new ValidateISBN();
+		assertThrows(NumberFormatException.class, () -> {
+			boolean result = validator.checkISBN("123456789"); // Definitely 9 digits long!
+		});
+	}
+
+
+	@Test
+	public void checkIfISBNContainsAlphabetic()
+	{
+		fail();
+		ValidateISBN validator = new ValidateISBN();
+
+		assertThrows(F.class, () -> {
+			boolean result = validator.checkISBN("123456789"); // Definitely 9 digits long!
+		});
+	}
+
+
+
 }
+
+
+
+
 

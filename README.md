@@ -347,7 +347,7 @@ All course material from *WireMock for Java Developers* by **Pragmatic Code Scho
 
 > We were integrating with a third-party payment gateway that had unpredictable response times and occasional schema changes. Our QA environment depended on that external API being up and stable — which it rarely was. Tests would pass one day and fail the next, and debugging became a guessing game. To make things worse, the provider rate-limited us, so reproducing issues locally was nearly impossible.
 >
->A recent deep dive I had taken into WireMock turned out to be a game changer. Instead of relying on the unstable external service, I stood up a local mock server that replicated the exact API behavior — including edge cases, timeouts, and error responses.<br><br>
+> A recent deep dive I had taken into WireMock turned out to be a game changer. Instead of relying on the unstable external service, I stood up a local mock server that replicated the exact API behavior — including edge cases, timeouts, and error responses.<br><br>
 ~ *DevelopersCradle*
 
 Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
@@ -470,13 +470,18 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] Add end of this course, check and remove the pre-existence codes.
 
 #### The Quizzes and Labs.
-
-* **Section 01**:
-    * *Quiz*:
-        * [Some here](#).
+<!-- 
+Todo selvitä tää missä teht 01
+* **Section 03**:
     * *Coding Exercise*:
-        * [Some here](#).
-
+        * [Challenge 01- My solution](#).
+        * [Challenge 01 - Teachers solution](#). -->
+* **Section 04**:
+    * *Coding Exercise*:
+        * [Challenge 02 - My solution](#).
+        * [Challenge 02 - Teachers solution](#).
+        * [Challenge 03 - My solution](#).
+        * [Challenge 03 - Teachers solution](#).
 
 <p align="center">
     <img src="Learn Test Driven Development in Java caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
