@@ -154,7 +154,6 @@ Practicing the basics.
 - Instructors example:
 
 
-
 # Solution to challenge 2.
 
 # Getting to more complex requirements and finding hidden requirements.

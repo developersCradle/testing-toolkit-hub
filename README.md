@@ -14,11 +14,11 @@
     - `git config --global core.longpaths true`.
 
 <p align="center">
-    <img src="Mockito_Next_Level_Java_Unit_Testing_Caption.png" alt="Mockito Next-Level Java Unit Testing" style="width:1600px;height:70px;"/>
+    <img src="Mockito_Next_Level_Java_Unit_Testing_Caption.png" alt="mockito next-level java unit testing" style="width:1600px;height:70px;"/>
 </p>
 
 <p align="center">
-    <img src="Mockito_Next_Level_Java_Unit_Testing_Description.jpg" alt="Mockito Next-Level Java Unit Testing" style="width:690px" />
+    <img src="Mockito_Next_Level_Java_Unit_Testing_Description.jpg" alt="mockito next-level java unit testing" style="width:690px" />
 </p>
 
 All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
@@ -42,7 +42,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 -->
 
 <div align="center">
-    <img id="certificate_mockito?trk=public_profile_see-credential" src="Certificate_Mockito_Next_Level_Java_Unit_Testing.jpg" alt="Certificate picture of mockito next level java unit testing" width="600"/>
+    <img id="certificate_mockito?trk=public_profile_see-credential" src="Certificate_Mockito_Next_Level_Java_Unit_Testing.jpg" alt="certificate picture of mockito next level java unit testing" width="600"/>
 </div>
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
@@ -458,12 +458,12 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [x] [Section 03](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2003#section-03-first-tests) - First tests. ✅
 - [x] [Section 04](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2004#section-04-practising-the-basics) - Practicing the basics. ✅
 - [ ] [Section 05](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2005#section-05-refactoring) - Refactoring. ⚠️ In progress! ⚠️
-- [ ] [Section 06](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2006/README.md#section-06-best-practices) - Best Practices.
-- [ ] [Section 07](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2007/README.md#section-07-stubs) - Stubs.
-- [ ] [Section 08](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2008#section-08-mocks-and-mockito) - Mocks and Mockito.
-- [ ] [Section 09](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2009#section-09-fakes-and-tautologies) - Fakes and Tautologies.
-- [ ] [Section 10](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2010#section-10-handling-legacy-code) - Handling legacy code.
-- [ ] [Section 11](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2011#section-11-goodbye) - Goodbye!
+- [x] [Section 06](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2006/README.md#section-06-best-practices) - Best Practices. ✅
+- [x] [Section 07](https://github.com/developersCradle/testing-toolkit-hub/blob/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2007/README.md#section-07-stubs) - Stubs. ✅
+- [x] [Section 08](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2008#section-08-mocks-and-mockito) - Mocks and Mockito. ✅
+- [x] [Section 09](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2009#section-09-fakes-and-tautologies) - Fakes and Tautologies. ✅
+- [x] [Section 10](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2010#section-10-handling-legacy-code) - Handling legacy code. ✅
+- [x] [Section 11](https://github.com/developersCradle/testing-toolkit-hub/tree/main/Practical%20Test%20Drive%20Development%20For%20Java%20Programmers/Section%2011#section-11-goodbye) - Goodbye! ✅
 
 #### Additional stuff.
 

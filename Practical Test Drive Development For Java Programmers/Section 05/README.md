@@ -3,3 +3,7 @@
 Refactoring.
 
 # What I Learned.
+
+# Getting started with refactoring – extracting constants.  
+
+# More refactoring – restructuring our code.

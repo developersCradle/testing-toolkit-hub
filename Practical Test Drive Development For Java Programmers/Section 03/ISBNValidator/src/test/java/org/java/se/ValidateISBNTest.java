@@ -38,20 +38,16 @@ class ValidateISBNTest {
 		});
 	}
 
-
+	// Junit 5 version.
 	@Test
 	public void checkIfISBNContainsAlphabetic()
 	{
-		fail();
 		ValidateISBN validator = new ValidateISBN();
 
-		assertThrows(F.class, () -> {
-			boolean result = validator.checkISBN("123456789"); // Definitely 9 digits long!
+		assertThrows(NumberFormatException.class, () -> {
+			boolean result = validator.checkISBN("helloWorld"); // Definitely 9 digits long!
 		});
 	}
-
-
-
 }
 
 

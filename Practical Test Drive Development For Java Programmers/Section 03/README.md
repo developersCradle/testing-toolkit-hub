@@ -311,10 +311,10 @@ public class ValidateISBN {
 			total += isbn.charAt(i) * (10 - i);
 		}
 ````
+
 2. The checking of the **modulo** operator with **11**.
 
 ````Java
-
 		if (total % 11 == 0)
 		{
 			return true;
@@ -327,7 +327,6 @@ public class ValidateISBN {
 - We are implementing the validation changes, for simple passes!
 
 ````Java
-
 	public boolean checkISBN(String isbn) {
 		int total = 0;
 		// The adding of the numbers together, sum.

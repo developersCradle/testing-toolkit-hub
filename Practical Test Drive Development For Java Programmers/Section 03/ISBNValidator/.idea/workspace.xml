@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="edbbf4d5-5d80-43d9-b10f-eb67b1468130" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Section 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 04/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Section 11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic.executor": "Run",
     "JUnit.ValidateISBNTest.checkInvalidISBN.executor": "Run",
     "JUnit.ValidateISBNTest.checkIsIfISBNis10digitsLong.executor": "Run",
     "JUnit.ValidateISBNTest.checkValidISBN.executor": "Run",
@@ -49,7 +48,7 @@
       <recent name="C:\Users\ScoopiDoo\Desktop\git projektit\testing-toolkit-hub\Learn Test Driven Development in Java\Section 02\ISBNValidator\src\test\java\org\java\se" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidateISBNTest">
+  <component name="RunManager" selected="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic">
     <configuration name="ValidateISBNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ISBNValidator" />
       <extension name="coverage">
@@ -131,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidateISBNTest" />
         <item itemvalue="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic" />
+        <item itemvalue="JUnit.ValidateISBNTest" />
         <item itemvalue="JUnit.ValidateISBNTest.checkIsIfISBNis10digitsLong" />
         <item itemvalue="JUnit.ValidateISBNTest.checkValidISBN" />
         <item itemvalue="JUnit.ValidateISBNTest.checkInvalidISBN" />
