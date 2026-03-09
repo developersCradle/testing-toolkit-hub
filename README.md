@@ -123,11 +123,11 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] Add here
 
 <p align="center">
-    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Caption.png" alt="selenium webDriver with java basics to advanced plus frameworks caption" style="width:1600px;height:100px;"/>
+    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Caption.png" alt="Selenium WebDriver With Java Basics To Advanced Plus Frameworks Caption" style="width:1600px;height:100px;"/>
 </p>
 
 <p align="center">
-    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Description.png" alt="selenium webDriver with java basics to advanced plus frameworks description" style="width:690px" />
+    <img src="Selenium_WebDriver_With_Java_Basics_To_Advanced_Plus_Frameworks_Description.png" alt="Selenium WebDriver With Java Basics To Advanced Plus Frameworks  Description" style="width:690px" />
 </p>
 
 All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
@@ -258,16 +258,16 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     * *Coding Exercise*:
         * [Some here](#).
 
-
 <p align="center">
-    <img src="Learn Cucumber BDD with Java - MasterClass Selenium Framework Caption.png" alt="introduction to algorithms caption" style="width:1600px;height:120px;"/>
+    <img src="Learn_Cucumber_BDD_With_Java_MasterClass_Selenium_Framework_Caption.png" alt="Learn Cucumber BDD With Java MasterClass Selenium Framework Caption" style="width:1600px;height:120px;"/>
 </p>
 
 <p align="center">
-    <img src="Learn Cucumber BDD with Java -MasterClass Selenium Framework Desc.PNG" alt="introduction to algorithms caption" style="width:690px" />
+    <img src="Learn_Cucumber_BDD_With_Java_MasterClass_Selenium_Framework_Description.PNG" alt="Learn Cucumbe BDD With Java MasterClass Selenium Framework Description" style="width:690px" />
 </p>
 
-All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
+
+All course material from *Spring Boot Unit Testing with JUnit, Mockito and MockMvc* by **Chad Darby** and **Eric Roby**.
 
 > <br><br>
 ~ *DevelopersCradle*
@@ -418,7 +418,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
     <img src="Practical_Test_Driven_Development_For_Java_Programmers_Description.PNG" alt="Practical Test Driven Development For Java Programmers Description" style="width:690px" />
 </p>
 
-All course material from *Practical Test Driven Development for Java Programmers* by **Matt Greencroft** and **add here**.
+All course material from *Practical Test Driven Development for Java Programmers* by **Matt Greencroft** and **Virtual Pair Programmers**.
 
 > When I was a junior developer at ❄️**Kide Clinical Systems**❄️, one of my colleagues introduced me to the concept of **T**est-**D**riven **D**evelopment (**TDD**). At the time, I was mainly focused on getting features to work, and tests were something I wrote afterward—if there was time.
 >
@@ -428,7 +428,7 @@ All course material from *Practical Test Driven Development for Java Programmers
 
 Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
 
-This will be using Junit5 rather than Junit4.
+This will be using *Junit5* rather than *Junit4*.
 
 This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 

@@ -13,7 +13,6 @@ public class ValidateISBN {
 
 	public boolean checkISBN(String isbn) {
 
-
 		if (isbn == null | isbn.length() < 10)
 		{
 			throw new NumberFormatException();
@@ -23,6 +22,12 @@ public class ValidateISBN {
 		// The adding of the numbers together, sum.
 		for (int i = 0; i < 10; i++)
 		{
+			if (containsAlphabet(isbn))
+			{
+				throw new NumberFormatException("ISBN numbers does not contain alphabet's!");
+			}
+
+
 			total += isbn.charAt(i) * (10 - i);
 		}
 

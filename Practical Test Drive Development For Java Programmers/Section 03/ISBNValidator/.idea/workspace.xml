@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbbf4d5-5d80-43d9-b10f-eb67b1468130" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Learn Cucumber BDD with Java -MasterClass Selenium Framework Desc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Learn Cucumber BDD with Java -MasterClass Selenium Framework Desc.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/se/ValidateISBN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/java/se/ValidateISBNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section 04/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +51,7 @@
       <recent name="C:\Users\ScoopiDoo\Desktop\git projektit\testing-toolkit-hub\Learn Test Driven Development in Java\Section 02\ISBNValidator\src\test\java\org\java\se" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic">
+  <component name="RunManager" selected="JUnit.ValidateISBNTest">
     <configuration name="ValidateISBNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ISBNValidator" />
       <extension name="coverage">
@@ -130,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic" />
         <item itemvalue="JUnit.ValidateISBNTest" />
+        <item itemvalue="JUnit.ValidateISBNTest.checkIfISBNContainsAlphabetic" />
         <item itemvalue="JUnit.ValidateISBNTest.checkIsIfISBNis10digitsLong" />
         <item itemvalue="JUnit.ValidateISBNTest.checkValidISBN" />
         <item itemvalue="JUnit.ValidateISBNTest.checkInvalidISBN" />
@@ -148,15 +151,5 @@
       <updated>1772302783478</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NumberFormatException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

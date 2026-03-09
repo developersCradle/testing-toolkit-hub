@@ -4,15 +4,16 @@ Practicing the basics.
 
 # What I Learned.
 
-# Testing for exceptions - and challenge number 1.
+# Testing for exceptions - and challenge number 01.
 
 <p align="center">
     <img src="Practicing_The_Basics.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
-1. We will be going thought the making *ISBN* validator better!
+1. In this chapter, we will be going thought the making *ISBN* validator better!
+    - This will be doing **exception** testing! 
 
-- First scenario is to write that *ISBN* needs to be at least 10 digits long!
+- First scenario is to write that *ISBN* needs to be **at least** 10 digits long!
 
 - First we will be writing failing test.
 
@@ -26,13 +27,14 @@ Practicing the basics.
 ````
 
 <p align="center">
-    <img src="Practicing_The_Basics.PNG" style="width:520px;height:290px;" alt="tdd course">
+    <img src="Failing_First_Test.PNG" style="width:520px;height:290px;" alt="tdd course">
 </p>
 
 1. We get the failing test!
 
 - We have **two** ways to **throw** exception (JUnit 5 way):
     - The **old** way, which should **not** be used!
+    
     ````Java
     @Test
     public void testException() {
@@ -44,6 +46,7 @@ Practicing the basics.
         }
     }
     ````
+
     - Or capturing the exception!
 
     ````Java
@@ -65,26 +68,98 @@ Practicing the basics.
         }
     ````
 
-- We are going to use the `NumberFormatException`
+- We are going to use the `NumberFormatException.class`
     ````Yml
     Thrown to indicate that the application has attempted to convert a string to one of the numeric types, but that the string does not have the appropriate format.
     ````
 
-- Our test:
+- Our current test:
 
-````
-@Test
-	public void checkIsIfISBNis10digitsLong()
+    ````
+        @Test
+        public void checkIsIfISBNisAtLeast10digitsLong()
+        {
+            ValidateISBN validator = new ValidateISBN();
+            assertThrows(NumberFormatException.class, () -> {
+                boolean result = validator.checkISBN("123456789"); // Definitely 9 digits long!
+            });
+        }
+    ````
+
+- And The `ValidateISBN.java` for this:
+
+    ````Java
+        public boolean checkISBN(String isbn) {
+
+            if (isbn == null | isbn.length() < 10)
+            {
+                throw new NumberFormatException();
+            }
+
+            int total = 0;
+            // The adding of the numbers together, sum.
+            for (int i = 0; i < 10; i++)
+            {
+                total += isbn.charAt(i) * (10 - i);
+            }
+
+            //  The modules operation
+            if (total % 11 == 0)
+            {
+                return true;
+            }
+            else{
+                return false;
+            }
+
+        }
+    ````
+
+- We can see **green** bar.
+
+<p align="center">
+    <img src="Exception_Throwing_Test.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. Green bar!
+
+- Last step is **refactoring** step, there is no need for refactor!
+
+<p align="center">
+    <img src="Writing_Other_Scenario_Practice.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. We will be making test for following, this needs give `Format Exception` when `string` is inputted! In next chapter.
+
+# Challenge 02 - writing a test.
+
+- My example, first we make test **fail**:
+
+````Java
+    @Test
+	public void checkIfISBNContainsAlphabetic()
 	{
-		ValidateISBN validator = new ValidateISBN();
-
-		assertThrows(NumberFormatException.class, () -> {
-			boolean result = validator.checkISBN("123456789"); // Definitely 9 digits long!
-		});
+		fail();
 	}
 ````
 
-- My service class:
+- We get by running it.
+
+<p align="center">
+    <img src="Failing_Test_For_CheckIfISBNContainsAlphabetic.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
+
+1. We get **failing** test. 
+
+- My version for checking, if there is any **alphabet** in the **strings**:
+
+````Java
+    public static boolean isAlphabet(String str) {
+        return str.matches("[a-zA-Z]+");
+    }
+````
+
+- And The `ValidateISBN.java` for this:
 
 ````Java
 
@@ -99,6 +174,11 @@ Practicing the basics.
 		// The adding of the numbers together, sum.
 		for (int i = 0; i < 10; i++)
 		{
+			if (containsAlphabet(isbn))
+			{
+				throw new NumberFormatException("ISBN numbers does not contain alphabet's!");
+			}
+
 			total += isbn.charAt(i) * (10 - i);
 		}
 
@@ -114,48 +194,30 @@ Practicing the basics.
 	}
 ````
 
-- We can see **green** bar.
+- My Test:
 
-<p align="center">
-    <img src="Exception_Throwing_Test.PNG" style="width:520px;height:290px;" alt="tdd course">
-</p>
-
-1. Green bar!
-
-- Last step is **refactoring** step, there is no need for refactor!
-
-
-<p align="center">
-    <img src="Writing_Other_Scenario_Practice.PNG" style="width:520px;height:290px;" alt="tdd course">
-</p>
-
-1. We are following test, this needs give `Format Exception` when `string` is inputted! My example below:
-
-
-
-# Challenge 2 - writing a test.
-
-- My example:
-
-````Java
-@Test
+````
+	@Test
 	public void checkIfISBNContainsAlphabetic()
 	{
-		fail();
+		ValidateISBN validator = new ValidateISBN();
+
+		assertThrows(NumberFormatException.class, () -> {
+			boolean result = validator.checkISBN("12345678910eeee"); // Definitely 9 digits long!
+		});
 	}
 ````
 
-````Java
-    public static boolean isAlphabet(String str) {
-        return str.matches("[a-zA-Z]+");
-    }
-````
+- We can see **green** bar.
 
-- Instructors example:
+<p align="center">
+    <img src="Successful_Test_For_CheckIfISBNContainsAlphabetic.PNG" style="width:520px;height:290px;" alt="tdd course">
+</p>
 
-
-# Solution to challenge 2.
+1. We get **green** test.
 
 # Getting to more complex requirements and finding hidden requirements.
 
-# Challenge 3 - Adding further business requirements.
+- We are having *ISBN*, which has **alphabets**.
+
+# Challenge 03 - Adding further business requirements.

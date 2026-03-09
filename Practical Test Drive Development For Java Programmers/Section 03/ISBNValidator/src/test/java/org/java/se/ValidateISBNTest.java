@@ -30,7 +30,7 @@ class ValidateISBNTest {
 	}
 
 	@Test
-	public void checkIsIfISBNis10digitsLong()
+	public void checkIsIfISBNisAtLeast10digitsLong()
 	{
 		ValidateISBN validator = new ValidateISBN();
 		assertThrows(NumberFormatException.class, () -> {
@@ -45,9 +45,10 @@ class ValidateISBNTest {
 		ValidateISBN validator = new ValidateISBN();
 
 		assertThrows(NumberFormatException.class, () -> {
-			boolean result = validator.checkISBN("helloWorld"); // Definitely 9 digits long!
+			boolean result = validator.checkISBN("12345678910eeee"); // Definitely 9 digits long!
 		});
 	}
+
 }
 
 
